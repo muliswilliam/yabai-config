@@ -13,11 +13,3 @@ $ git clone https://github.com/muliswilliam/yabai-config.git "${HOME}"/.config/y
 $ ln -s "${HOME}/.config/yabai/yabairc" "${HOME}/.yabairc"
 $ ln -s "${HOME}/.config/yabai/skhdrc" "${HOME}/.skhdrc"
 ```
-
-```
-
-```
-
-```
-
-```
