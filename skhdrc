@@ -66,7 +66,8 @@ shift + alt - 7 : yabai -m window --space 7;
 shift + alt - 8 : yabai -m window --space 9;
 shift + alt - 9 : yabai -m window --space 9;
 
-
+# create a new space and focus on it
+ctrl + alt - n : yabai -m space --create; yabai -m space --focus recent;
 
 
 
